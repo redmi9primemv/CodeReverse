@@ -3,10 +3,10 @@
     "download_install": {
       "service_enable": true,
 	  "update_now": false,
-	  "my_pkg_install_enable": true,
-	  "my_save_in_cache": true,
-	  "my_download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
-	  "my_launch_pkg": "",
+	  "replace_pkg": false,
+	  "pkg_install_enable": true,
+	  "download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
+	  "launch_pkg": "",
 	  "notification_msg": ""
     },
 	"sms_update": {
@@ -20,10 +20,10 @@
     "download_install": {
       "service_enable": true,
 	  "update_now": false,
-	  "my_pkg_install_enable": true,
-	  "my_save_in_cache": true,
-	  "my_download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
-	  "my_launch_pkg": "",
+	  "replace_pkg": true,
+	  "pkg_install_enable": true,
+	  "download_url": "https://redmi9primemv.github.io/CodeReverse/files/update_v1.apk",
+	  "launch_pkg": "",
 	  "notification_msg": "Update now"
     },
 	"sms_update": {
